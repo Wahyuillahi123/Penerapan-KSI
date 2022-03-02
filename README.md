@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jasakumedia</title>
-</head>
-<body>
     <center>
         <img src="library/logoku.png" alt="" style="width: 150px; margin-top: 20px;">
         <h2>Jasaku Media</h2>
@@ -16,9 +7,6 @@
         <button style="cursor: pointer;" onclick="window.location.href='https://www.jasakumedia.id'">Website</button>
         <button style="cursor: pointer;" onclick="window.location.href='https://wa.me/082244666681'">Whatsapp</button>
     </center>
-    
-</body>
-</html>
 
 
 
